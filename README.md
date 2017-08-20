@@ -11,17 +11,21 @@ A freeware and educational program that helps in reducing and almost solving wor
 ![ex2](ex2.png)
 
 ######Option 1 - Start Letters
-	This option gives you a list of unique letters that begins the list of words in the word list result.
+	This option gives you a list of unique letters that begins the list of words in 
+	the word list result.
 
 ![ex3](ex3.png)
 
 ######Option 2 - Count Start Letters
-	This option gives you a count of the words in the word list result that begins with the letter inputed in the "Letter" textbox.
+	This option gives you a count of the words in the word list result that begins with
+	the letter inputed in the "Letter" textbox.
 
 ![ex4](ex4.png)
 
 ######Option 2 - Bind Around
-	This option gives you a list of the words in the word list result that begins with  the letter inputed and has its second letter as any of the letters inputed in the   "Surrounding" textbox.
+	This option gives you a list of the words in the word list result that begins with 
+	the letter inputed in the "Letter" textbox and has its second letter as any of the
+	letters inputed in the "Surrounding" textbox.
 
 ![ex5](ex5.png)
    
